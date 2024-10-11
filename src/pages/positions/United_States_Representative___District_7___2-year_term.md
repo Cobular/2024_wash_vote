@@ -51,7 +51,6 @@ Over 20 labor unions including the Washington State Labor Council, SEIU, UFCW 30
 
 *continue*
 
-# United States Representative | District 7 | 2-year term
 
 ## Dan Alexander  
 *(Prefers Republican Party)*

@@ -46,7 +46,6 @@ King County Democrats and the 1st, 5th, 33rd, 41st, and 48th District Democrats
 ### Voter tip:  
 If you would like help voting in person, you can request assistance from your county elections office. Every county offers an Accessible Voting Unit (AVU) at each voting center.
 
-# Court of Appeals Judge  
 **Division 1 District 1 Position 7**  
 **6-year term**  
 

@@ -32,7 +32,6 @@ layout: ../../components/Prose.astro
 ---  
 *continue*
 
-# Governor | 4-year term
 
 ## Dave Reichert  
 *(Prefers Republican Party)*

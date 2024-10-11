@@ -55,7 +55,6 @@ info@kamalaharris.com; www.kamalaharris.com
 ---  
 continue
 
-# United States President & Vice President | 4-year term
 
 ## Donald J. Trump  
 **Republican Party Nominee**  
@@ -109,7 +108,6 @@ Donald J. Trump believes in a strong and prosperous America. He will restore eco
 
 **Vote to put America First and to Make America Great Again. Vote Donald J. Trump for President.**
 
-# United States President & Vice President | 4-year term
 
 ## Robert F. Kennedy Jr.
 **We The People Party**  
@@ -179,7 +177,6 @@ Restoring honest governance, Kennedy and Shanahan will eradicate corruption and 
 
 continue
 
-# United States President & Vice President | 4-year term
 
 ## Jill Stein  
 **Green Party Nominee**  
@@ -238,7 +235,6 @@ We have the power to do all this and more - and we can use it in 2024 to start b
 
 **continue**
 
-# United States President & Vice President | 4-year term
 
 ## Claudia De la Cruz  
 **Socialism and Liberation**  
@@ -290,7 +286,6 @@ We stand for socialism — a system where poor and working people hold political
 ## Contact  
 info@votesocialist2024.com; votesocialist2024.com
 
-# United States President & Vice President | 4-year term
 
 ## Rachele Fruit  
 **Socialist Workers Party**  
@@ -339,7 +334,6 @@ We must defend constitutional freedoms won in struggle—freedoms of worship, sp
 ---  
 continue
 
-# United States President & Vice President | 4-year term
 
 ## Joseph Kishore  
 **Socialist Equality Party**  
@@ -401,7 +395,6 @@ Capitalism has failed and must be ended. Socialism is the future. Vote for Kisho
 
 continue
 
-# United States President & Vice President | 4-year term
 
 ## Chase Oliver  
 **Libertarian Party Nominee**  
@@ -456,7 +449,6 @@ In all aspects of policy, Libertarians pursue reform with one goal: to empower p
 ---  
 continue
 
-# United States President & Vice President | 4-year term
 
 ## Cornel West  
 **Justice For All Party Nominee**  
@@ -516,7 +508,6 @@ Learn more at [www.CornelWest2024.com/100_days](http://www.CornelWest2024.com/10
 
 **continue**
 
-# United States President & Vice President | 4-year term
 
 ## Shiva Ayyadurai  
 **Independent Candidate**  

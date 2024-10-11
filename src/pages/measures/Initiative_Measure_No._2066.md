@@ -23,7 +23,6 @@ Initiative Measure No. 2066 concerns regulating energy services, including natur
 
 The Secretary of State is not responsible for the content of statements or arguments (WAC 434-381-180).
 
-# Initiative Measure No. 2066
 
 ## Explanatory Statement  
 **Written by the Office of the Attorney General**  
@@ -58,7 +57,6 @@ If voters approve Initiative 2066, there will be a net increase in state costs f
 **Department of Ecology**  
 Under the Climate Commitment Act, the Department of Ecology administers the Cap-and-Invest Program, which sets a cap on overall carbon emissions in the state and requires businesses to obtain carbon emission allowances equal to their covered greenhouse gas emissions. Under the program, any gas utility that is responsible for 25,000 metric tons or more of carbon dioxide-equivalent emissions per year is required to acquire emissions allowances equal to its emissions. Gas utilities currently receive free emission allowances to help ease the cost burden of transitioning away from fossil fuels. In 2024, the utilities receive emission allowances.
 
-# Initiative Measure No. 2066
 
 ## Overview
 - Initiative Measure 2066 would prohibit natural gas utilities from offering incentives to customers to terminate their natural gas service.
@@ -95,7 +93,6 @@ Under the Climate Commitment Act, the Department of Ecology administers the Cap-
 - Two municipalities in Washington are natural gas providers and are required to participate in the Climate Commitment Act’s cap-and-invest program: the City of Enumclaw and City of Ellensburg.
 - If I-2066 passes, these cities may need to purchase additional carbon emission allowances to meet their obligations under the Climate Commitment Act to reduce greenhouse gas emissions over time. However, the total impact on these utilities cannot be known at this time.
 
-# Initiative Measure No. 2066
 
 ## Argument for
 
@@ -151,7 +148,6 @@ State law already guarantees people can have natural gas if they want it. The po
 
 **Contact:** (206) 981-3896; info@no2066.org; www.no2066.org
 
-# Initiative Measure No. 2066
 
 ## How do I read measure text?
 Language in double parentheses with a line through it is existing state law; it will be taken out of the law if this measure is approved by voters.  
@@ -194,7 +190,6 @@ RCW 80.28.425 and 2024 c 351 s 18 are each amended to read as follows:
 
 (1) Beginning January 1, 2022, every general rate case filing of a gas or electrical company must include a proposal for a multiyear rate plan as provided in this chapter. The commission may, by order after an adjudicative proceeding as provided by chapter 34.05 RCW, approve, approve with conditions, or reject, a multiyear rate plan proposal made by a gas or electrical company or an alternative proposal made by one or more parties, or any combination thereof. The commission’s consideration of a proposal for a multiyear rate plan is subject to the same standards applicable to other rate filings made under this title, including the public interest and fair, just, reasonable, and sufficient rates. In determining the public interest, the commission may consider such factors including, but not limited to, environmental health and greenhouse gas emissions reductions, health and safety concerns, economic development, and equity, to the extent.
 
-# Initiative Measure No. 2066
 
 ## 103
 
@@ -245,7 +240,6 @@ Such factors affect the rates, services, and practices of a gas or electrical co
 
 12. The commission shall not approve, or approve with conditions, a multiyear rate plan that authorizes a.
 
-# Initiative Measure No. 2066
 
 (4) By January 1, 2027, and on a timeline set by the commission thereafter, large combination utilities shall file an integrated system plan demonstrating how the large combination utilities’ plans are consistent with the requirements of this chapter and any rules and guidance adopted by the commission, and which:
 
@@ -267,7 +261,6 @@ Such factors affect the rates, services, and practices of a gas or electrical co
 
 (i) Include rebates and incentives to low-income customers and customers experiencing high energy burden for the deployment of high-efficiency electric-only heat pumps in homes and buildings currently heating with wood, oil,
 
-# Initiative Measure No. 2066
 
 ## 105
 
@@ -286,7 +279,6 @@ Such factors affect the rates, services, and practices of a gas or electrical co
    (n) Assess distributed energy resources that meets the requirements of RCW 19.280.100;  
    (o) Provide an assessment and 20-year forecast of the availability of and requirements for regional supply side resource and delivery system capacity to provide and deliver electricity and gas to the large combination utility’s customers and to meet, as applicable, the requirements of chapter 19.405 RCW and the state’s greenhouse gas emissions reduction limits in RCW 70A.45.020. The delivery system assessment must identify the large combination utility’s expected needs to acquire new long-term firm rights, develop new, or expand or upgrade existing, delivery system facilities consistent with the requirements of this section and.
 
-# Initiative Measure No. 2066
 
 ## 106
 
@@ -333,7 +325,6 @@ Such factors affect the rates, services, and practices of a gas or electrical co
       1. Would achieve a proportional share of reductions in greenhouse gas emissions for each emissions reduction period on the gas and electric systems;
       2. Would achieve cost-effective electrification of end uses as required by subsection (4)(h) of this section;
 
-# Initiative Measure No. 2066
 
 (12) The commission shall not approve, or approve with conditions, an integrated system plan that requires or incentivizes a large combination utility to terminate natural gas service to customers.
 

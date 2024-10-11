@@ -19,7 +19,6 @@ Should this measure be enacted into law?
 
 The Secretary of State is not responsible for the content of statements or arguments (WAC 434-381-180).
 
-# Initiative Measure No. 2109
 
 ## Explanatory Statement  
 **Written by the Office of the Attorney General**  
@@ -62,7 +61,6 @@ If approved by voters, Initiative 2109 will result in an estimated state revenue
 - The effective date of the initiative is December 5, 2024.  
 - The provisions of the initiative apply prospectively, not retroactively.
 
-# Initiative Measure No. 2109
 
 - The Department of Revenue (DOR) ceases all collection activities on the effective date, including those activities that are in progress.
 - Estimates use the state’s fiscal year (SFY) of July 1 through June 30. State fiscal year 2025 is July 1, 2024, to June 30, 2025.
@@ -107,7 +105,6 @@ In state fiscal year 2025, DOR will have costs that will be paid with existing f
 - Updating special notices and excise tax advisories, canceling interim guidance statements and updating other capital gains tax information on the website.
 - Amending two administrative rules.
 
-# Initiative Measure No. 2109
 
 • Administering computer system changes and testing for capital gains tax and related B&O tax credits.
 
@@ -140,7 +137,6 @@ In state fiscal year 2029, the department will also have costs to decommission t
 | Department of Revenue      | $0               | ($2,364,900)     | ($2,433,800)     | ($2,604,600)     | ($2,629,400)     |
 | **TOTAL**                  | **($23,000)**    | **($2,387,900)** | **($2,456,800)** | **($2,627,600)** | **($2,652,400)** |
 
-# Initiative Measure No. 2109
 
 ## Argument for "Yes" on I-2109
 
@@ -187,7 +183,6 @@ In state fiscal year 2029, the department will also have costs to decommission t
   **Contact:** (206) 659-6421; info@no2109.org; No2109.org
 
 
-# 108  Initiative Measure No. 2066 | Initiative Measure No. 2109
 
 ## Complete Text
 

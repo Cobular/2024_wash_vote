@@ -25,7 +25,6 @@ Should this measure be enacted into law?
 
 The Secretary of State is not responsible for the content of statements or arguments (WAC 434-381-180).
 
-# Initiative Measure No. 2117
 
 ## Explanatory Statement  
 **Written by the Office of the Attorney General**  
@@ -43,7 +42,6 @@ Proceeds from the allowance auctions are appropriated by the Legislature and mus
 
 In addition to establishing the cap-and-invest program to reduce greenhouse gas emissions, the Climate Commitment Act also establishes a program for the Department of Ecology to reduce emissions of certain air pollutants (particulate matter, ozone, nitrogen dioxide, carbon monoxide, lead, and sulfur dioxide) in communities that the Department of Ecology has determined are overburdened and highly impacted by air pollution. This part of the Act requires the Department of Ecology to collect data needed to determine which sources contribute the most to air pollution in these communities. The Climate Commitment Act then requires the Department of Ecology to work with local air agencies to analyze this data and use it to develop and enforce stricter air quality standards where appropriate.
 
-# Initiative Measure No. 2117
 
 ## The Effect of the Proposed Measure if Approved
 If approved, Initiative Measure No. 2117 would repeal the Climate Commitment Act, and bar state agencies from implementing carbon tax credit trading programs. Repealing the Climate Commitment Act would eliminate the climate and air quality programs described above as well as the funding source for investments in climate projects throughout the state.
@@ -86,7 +84,6 @@ The initiative eliminates five accounts created under the Climate Commitment Act
 
 An estimated $1 million to $300 million would be transferred into the Transportation Carbon Emissions Reduction Account, and $700 million to $900 million would be transferred into the Consolidated Climate Account. These amounts would be available to spend.
 
-# Initiative Measure No. 2117
 
 ## Funding Transfers
 - The exact amount of funding that would transfer into the two new accounts is unknown, because the amounts will be based on:
@@ -112,7 +109,6 @@ An estimated $1 million to $300 million would be transferred into the Transporta
 - Two accounts receive funding solely from the Climate Emissions Reduction Account: Climate Active Transportation Account (CATA) and Climate Transit Programs Account (CTPA). These accounts would not be eliminated by the initiative; however, the initiative would eliminate the only revenue source for these accounts.
 - Funding provided through CATA and CTPA could still be spent through the end of the biennium, June 30, 2025. This funding pays for grant programs such as Safe Routes to Schools, Tribal transit, active transportation local projects, and support to transit agencies and other providers.
 
-# Initiative Measure No. 2117
 
 ## Climate Investment Account
 - Revenue from the auctions is deposited into the Climate Investment Account after the required distribution to the Carbon Emissions Reduction Account and can be used for administering the Climate Commitment Act, tracking spending and reporting, and Tribal capacity grants.
@@ -148,7 +144,6 @@ An estimated $1 million to $300 million would be transferred into the Transporta
 - Local capital projects, including funding to complete the Guemes Island ferry replacement – $32.9 million, WSDOT
 
 
-# Initiative Measure No. 2117
 
 ## Funding Allocations
 - **Public bus and transit facility projects** – $29.9 million, WSDOT
@@ -185,7 +180,6 @@ For the purposes of this fiscal impact statement, it is assumed future spending 
 ### Impact on the Climate Investment Account in the current biennium:
 (See Table 5 on page 28.)
 
-# Initiative Measure No. 2117
 
 ## Significant activities that would be eliminated under the initiative:
 - Grants added in 2024 for Tribal capacity to engage and work on climate related projects – **$5 million, ECY**  
@@ -222,7 +216,6 @@ The ECY and other agencies would lose anticipated future spending authority for 
 
 The ECY would also lose **$31.5 million** per biennium for grants to Tribes to increase capacity to engage and work on climate-related projects and for carbon offset project development and **$3.8 million** to make improvements to Washington’s inventory of greenhouse gas emissions.
 
-# Initiative Measure No. 2117
 
 ## Natural Climate Solutions Account
 
@@ -269,7 +262,6 @@ Sixteen state agencies would lose anticipated future spending authority for ongo
 ### Future impacts from SFY 2026–SFY 2029:
 Nine state agencies would lose anticipated future spending authority for ongoing programs of approximately $50 million each biennium to continue work on programs and projects which increase the resilience of the state’s waters, forests and other vital ecosystems to the impacts of climate change; conserve forestlands; and increase natural carbon-pollution reduction capacity.
 
-# Initiative Measure No. 2117
 
 ## Air Quality and Health Disparities Investment Account
 
@@ -305,7 +297,6 @@ WSU has leased a building in Richland, Washington to house the Institute for Nor
 ### Performance audit:
 Under the initiative, the Joint Legislative Audit and Review Committee (JLARC) would not conduct a mandated performance audit of Climate Commitment Act implementation which is required by December 1, 2029. The estimated savings to JLARC is $200,000 from the State General Fund in state fiscal year 2029.
 
-# Initiative Measure No. 2117
 
 ## Local government impacts
 
@@ -337,7 +328,6 @@ Currently, 53 cities, counties, and other publicly owned entities that provide e
 
 Two cities in Washington provide natural gas to local ratepayers. They participate in the Climate Commitment Act’s cap-and-invest program due to the level of their carbon emissions: the City of Enumclaw and the City of Ellensburg. The initiative repeals the cap-and-invest program, and these two cities would no longer be required to acquire allowances or offset credits equal to their carbon emission levels. Under the initiative, through 2030, the total value of the free allowances that these cities would not receive is forecasted at $13.4 million.
 
-# Initiative Measure No. 2117
 
 ## Table 1 – Projected revenue impact to Washington State
 
@@ -369,7 +359,6 @@ Two cities in Washington provide natural gas to local ratepayers. They participa
 | General Fund-Federal                                                     | ($45,000,000)    | ($70,000,000)    | ($70,000,000)    | ($70,000,000)    | ($236,700,000)   |
 | **Total**                                                                | **($835,829,954)**| **($430,377,000)**| **($428,053,500)**| **($392,346,500)**| **($590,506,500)**|
 
-# Initiative Measure No. 2117
 
 ## Table 3 – Impact on the Carbon Emissions Reduction Account in the current biennium:
 
@@ -405,7 +394,6 @@ Two cities in Washington provide natural gas to local ratepayers. They participa
 | Washington State Conservation Commission              | ($105,000)                   | $0                                                         |
 | **Total**                                            | **($12,189,169)**            | **$23,067,715**                                             |
 
-# Initiative Measure No. 2117
 
 ## Table 6 – Impact on the Climate Commitment Account in the current biennium:
 
@@ -443,7 +431,6 @@ Two cities in Washington provide natural gas to local ratepayers. They participa
 | Workforce Training Board                                      | $0                           | $508,273                                                           |
 | **Total**                                                   | **($419,717,870)**           | **$476,479,014**                                                  |
 
-# Initiative Measure No. 2117
 
 ## Table 7 – Impact on the Natural Climate Solutions Account in the current biennium:
 
@@ -470,7 +457,6 @@ Two cities in Washington provide natural gas to local ratepayers. They participa
 | Department of Ecology                                | $0                           | $19,333,611                                                         |
 | **Total**                                           | **$0**                       | **$19,333,611**                                                    |
 
-# Initiative Measure No. 2117
 
 ## Argument for
 
@@ -511,7 +497,6 @@ Nichole Banegas, Environmental Justice Leader; Cliff Mass, Professor of Atmosphe
 Mark Riker, Executive Secretary, Washington Building & Construction Trade Council; Leonard Forsman, Chairman Suquamish Tribe, Affiliated Tribes of Northwest Indians; Maia Bellon, The Nature Conservancy in Washington, Board Chair, Tumwater; Richard de Sam Lazaro, Transportation Choice Coalition, Board President; Lindsey Kirsch, Pediatric Registered Nurse; Jason Wilkins, State Council of Firefighters, Spokane, Wildland Taskforce Leader  
 **Contact:** (206) 331-3969; info@no2117.com; no2117.com
 
-# Initiative Measure No. 2117
 
 ## Complete Text
 

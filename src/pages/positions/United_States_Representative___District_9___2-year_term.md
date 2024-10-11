@@ -42,7 +42,6 @@ It is a true privilege to serve our community and I would be honored to have you
 ---  
 continue
 
-# United States Representative | District 9 | 2-year term
 
 ## Melissa Chaudhry  
 *(Prefers Democratic Party)*

@@ -20,7 +20,6 @@ Should this measure be enacted into law?
 
 > The Secretary of State is not responsible for the content of statements or arguments (WAC 434-381-180).
 
-# Initiative Measure No. 2124
 
 ## Explanatory Statement  
 **Written by the Office of the Attorney General**  
@@ -60,7 +59,6 @@ If voters approve Initiative 2124, there will be additional expenses to the stat
 - The provisions of the initiative apply prospectively, not retroactively.
 - Workers who do not have an exemption from the Long-Term Services and Supports program (LTSS) will continue paying premiums unless and until they affirmatively opt out of the program.
 
-# Initiative Measure No. 2124
 
 ## REVENUE
 
@@ -95,7 +93,6 @@ ESD collects and assesses employee LTSS program premiums. Therefore, ESD assumes
 
 There are currently 4.1 million workers in Washington state, with 3.9 million participating in the LTSS program. It is unknown how many of those workers will choose to remain in the program. Therefore, estimated expenditures for benefits and administrative costs are indeterminate. For this reason, this analysis identifies costs associated with a range of scenarios, from 25%.
 
-# Initiative Measure No. 2124
 
 ## Staffing and Costs Estimates
 - **Ranges of the staff required and costs based on 25% to 75% of workers electing to opt out:**  
@@ -145,7 +142,6 @@ There are currently 4.1 million workers in Washington state, with 3.9 million pa
 - Current actuarial projections assume program benefit payments to cost approximately $1.837 billion in SFY27.  
 - Future impacts on benefit payouts or associated administrative expenses are indeterminate.
 
-# Initiative Measure No. 2124
 
 ## Table 1 – Ranges of the staff required and costs based on 25% to 75% of workers electing to opt out:
 |                       | SFY25                  | SFY26                  | SFY27                |
@@ -174,7 +170,6 @@ You may be able to enroll in the Address Confidentiality Program (ACP) and regis
 
 Call 1 (800) 822-1065 or visit sos.wa.gov/acp.
 
-# Initiative Measure No. 2124
 
 ## Argument for
 
@@ -231,7 +226,6 @@ That’s why it’s strongly opposed by the WA State Nurses Association, AARP, L
 
 **Contact:** (206) 801-0179; NoOn2124.org
 
-# Initiative Measure No. 2124
 
 ## Complete Text
 

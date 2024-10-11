@@ -46,7 +46,6 @@ I am asking for your support in the U.S. Senate race.
 ---  
 continue
 
-# United States Senator | 6-year term
 
 ## Dr Raul Garcia  
 *(Prefers GOP Party)*

@@ -44,7 +44,6 @@ Justice Gonzalez has bipartisan support. He is endorsed by his Supreme Court col
 
 **Remember to sign and date your ballot return envelope. Your signature is important, and we need it to accept your ballot.**
 
-# Supreme Court Justice | Position 9 | 6-year term
 
 ## Sheryl Gordon McCloud  
 *(Nonpartisan)*  
