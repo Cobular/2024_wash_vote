@@ -1,6 +1,15 @@
 ---
-const measures = Object.values(await import.meta.glob('./measures/*.md', { eager: true }));
-const candidates = Object.values(await import.meta.glob('./positions/*.md', { eager: true }));
+interface Thing2 {
+	text: string
+}
+
+interface Thing {
+	url: string
+	getHeadings: () => Thing2[]
+}
+
+const measures = Object.values(import.meta.glob('./measures/*.md', { eager: true })) as unknown as Thing[];
+const candidates = Object.values(import.meta.glob('./positions/*.md', { eager: true })) as unknown as Thing[];
 ---
 
 <div class="container ml-10">
